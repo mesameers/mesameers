@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-dev--3--d--portfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://mesameersif.netlify.app//)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow%20My%20Work-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abubakarchisti)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abubakar-niaz-410046394/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sameer-hussain-834a2a389)
 <!-- [![Facebook](https://img.shields.io/badge/FACEBOOK-abubakar.niaz.396-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abubakar.niaz.396)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-abubakarniaz3-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abubakarniaz3/) -->
 
